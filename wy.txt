@@ -1,0 +1,4 @@
+ala to JEST palindrom
+ola to NIE JEST palindrom
+kama to NIE JEST palindrom
+kajak to JEST palindrom
